@@ -13,6 +13,8 @@ A two-day hands-on and interactive session brought to you by IEEE-VIT
     > python -m venv .venv
 
     > .venv\Scripts\activate
+
+    > clear
     
     #### Linux/MacOS:
     > python3 -m venv .venv
@@ -22,6 +24,8 @@ A two-day hands-on and interactive session brought to you by IEEE-VIT
 
 5. Install the required packages:
     >`pip install -r requirements.txt`
+    
+    > clear
     
     **Note**: if u have cloned the repo then run this command directly and if not then [head over](https://github.com/dk-a-dev/PyCamp) to the repo and download the requirements.txt file
     
