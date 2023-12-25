@@ -37,3 +37,6 @@ A two-day hands-on and interactive session brought to you by IEEE-VIT
 1. [Python Documentation](https://docs.python.org/3/)
 2. [Virtual Environment Setup](https://docs.python.org/3/tutorial/venv.html)
 3. [Python Package Index](https://pypi.org/)
+
+## Resources for Day-2
+1. [418 I'm a teapot](https://www.rfc-editor.org/rfc/rfc2324#section-2.3.2)
