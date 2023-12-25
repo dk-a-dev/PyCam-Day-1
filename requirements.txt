@@ -1,4 +1,9 @@
+# Day-1
 pandas
 numpy
 jupyterlab
 matplotlib
+
+# Day-2
+requests
+beautifulsoup4
