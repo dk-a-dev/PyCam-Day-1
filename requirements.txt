@@ -7,3 +7,5 @@ matplotlib
 # Day-2
 requests
 beautifulsoup4
+Flask
+Flask-SQLAlchemy
