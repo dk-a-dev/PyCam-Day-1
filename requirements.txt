@@ -9,4 +9,3 @@ requests
 beautifulsoup4
 Flask
 Flask-SQLAlchemy
-pyppeteer
